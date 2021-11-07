@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Z_Tata_GC_Lab_7/1.0.0": {
+        "runtime": {
+          "Z_Tata_GC_Lab_7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Z_Tata_GC_Lab_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

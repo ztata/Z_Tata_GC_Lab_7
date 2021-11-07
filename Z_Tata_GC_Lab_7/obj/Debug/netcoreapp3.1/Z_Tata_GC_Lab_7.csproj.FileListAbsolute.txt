@@ -1,0 +1,14 @@
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\bin\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.exe
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\bin\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.deps.json
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\bin\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.runtimeconfig.json
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\bin\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.runtimeconfig.dev.json
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\bin\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.dll
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\bin\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.pdb
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.AssemblyInfo.cs
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.dll
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.pdb
+C:\Users\zacha\source\repos\Z_Tata_GC_Lab_7\Z_Tata_GC_Lab_7\obj\Debug\netcoreapp3.1\Z_Tata_GC_Lab_7.genruntimeconfig.cache
